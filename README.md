@@ -2,7 +2,7 @@
 - 👀 I’m interested in making a difference in the world
 - 🌱 I’m currently learning DSA using C,Python,IOT.
 - 💞️ I’m looking to collaborate on anything and everything that will teach me things.
-- 📫 How to reach me contact me via Instagram.com/_its.avijit_
+- 📫 How to reach me ******
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My dreams scares the hell out of me
 
