@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avijit-Saha-04
 - 👀 I’m interested in making a difference in the world
-- 🌱 I’m currently learning DSA in C,Python,IOT.
+- 🌱 I’m currently learning DSA using C,Python,IOT.
 - 💞️ I’m looking to collaborate on anything and everything that will teach me things.
 - 📫 How to reach me contact me via Instagram @_its.avijit_
 - 😄 Pronouns: He/Him
