@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything that will teach me things.
 - 📫 How to reach me ******
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dreams scares the hell out of me
+- ⚡ Fun fact: My dreams scare the hell out of me
 
 <!---
 Avijit-Saha-04/Avijit-Saha-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
