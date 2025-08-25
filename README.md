@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avijit-Saha-04
+- 👋 Hi, I’m @Avijit-Saha
 - 👀 I’m interested in making a difference in the world
 - 🌱 I’m currently learning DSA using C,Python,IOT.
 - 💞️ I’m looking to collaborate on anything and everything that will teach me things.
